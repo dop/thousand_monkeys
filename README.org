@@ -1,0 +1,13 @@
+* TODO ??? [0/5]
+** TODO Document type [0/2]
+- [ ] Convert .org to document type
+- [ ] Diffs on edit?
+** TODO Archive type (document list) [0/1]
+- [ ] Pagination
+** TODO Blog type [0/1]
+- [ ] Unbreakable links?
+** TODO Storage [0/2]
+- [ ] files or database?
+- [ ] migrations
+** TODO Compilation [0/1]
+- [ ] Blog object to files
