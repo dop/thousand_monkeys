@@ -1,0 +1,5 @@
+(library
+ (name thousand_monkeys)
+ (libraries tyxml unix ppx_assert ppx_sexp_conv)
+ (inline_tests)
+ (preprocess (pps ppx_assert ppx_sexp_conv ppx_inline_test)))
